@@ -1,6 +1,6 @@
 # Novorow Website
 
-Official website for **Novorow** - a technology-focused brand covering tech events, product launches, and platform updates.
+Official website for **Novorow** – a technology-focused brand covering tech events, product launches, and platform updates.
 Offers graphic design and video editing services.
 
 ## Stack
@@ -11,7 +11,7 @@ Offers graphic design and video editing services.
 This site is automatically deployed via the `main` branch.
 
 ## Structure
-- `index.html` — main entry point
+- `index.html` – main entry point
 
 ## Development Notes
 - Manual edits may be overwritten on re-export.
