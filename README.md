@@ -1,6 +1,6 @@
 # Novorow Website
 A multidisciplinary studio creating brands, motion-driven visuals, and video experiences for modern digital audiences.
-- Offering graphic design and video editing services.
+- Offers graphic design and video editing services.
 - YouTube channel covers how technology updates, with my perspective on new products, major announcements, and various applications.
 
 ## Stack
