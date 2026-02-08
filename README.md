@@ -1,6 +1,6 @@
 # Novorow Website
 
-A multidisciplinary studio creating **brands**, **motion graphics**, and **video experiences** for modern digital audiences.
+Creating brands and video experiences for modern digital audiences. 
 
 ## Live
 - Website: https://novorow.com
