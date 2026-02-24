@@ -5,14 +5,14 @@ Creating brands and video experiences for modern digital audiences.
 ## Live
 - Website: https://novorow.com
 
-## What Novorow Does (Primary)
+## What Novorow Does
 Client services focused on fast, high-quality outputs:
 - **Brand identity & design systems** (logos, typography, brand kits)
 - **Graphic design** (posters, social templates, thumbnails, covers)
 - **Motion graphics** (animated promos, title sequences, transitions)
 - **Video editing** (short-form + long-form packaging and polish)
 
-## Secondary (Content)
+## Secondary
 - Tech updates and product/event coverage through the Novorow channel (used as R&D and a portfolio).
   
 ## Stack
